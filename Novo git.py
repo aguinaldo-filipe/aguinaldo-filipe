@@ -4,8 +4,13 @@
 
 #print(f"\nNome do paciente é {nome}, tem {idade} anos e é do genero {genero}")
 # Criação de uma Lista
-pacientes = ["Roberto", "Julia", "Ana", "Alex"]
+pacientes = ["Roberto", "leixo", "Julia", "Robertinho", "xande", "bertinho", "Roberta", "Ana", "bertinha", "Alixo", "berta", "Alexander", "Robertinha", "Alex", "berto", "Alexo", "Aleixo", "lexandre", "Alexandre", "Analtina", "lixandre", "Alixo", "Anacleta", "lixo", "Alexandra","Alícia", "Bali", "Baba", "Bianca", "Bruna"]
 
 #print(f"\n pacientes")
-print(pacientes[0],pacientes[2]) 
+print(pacientes[4],pacientes[9]) 
 print(f"{pacientes[0]} e a {pacientes[2]}")
+print(pacientes)
+a=5; b=5; c=a+b; 
+print(a),print(c)
+print(c),print(b)
+print(b),print(a)
